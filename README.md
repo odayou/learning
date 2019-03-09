@@ -4,5 +4,5 @@
 ## vuejs
 ## nodejs
 ## android
-## paython
+## python
 ## java
