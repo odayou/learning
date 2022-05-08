@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{4BDE285D-6255-31DD-892D-5E317A962147}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/fengz.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Pappy.cs" Line="27" Column="23" />
+      <File FileName="Assets/Scripts/Joj.cs" Line="28" Column="54" />
+      <File FileName="Assets/Scripts/fengz.cs" Line="17" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="demo1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="fengz.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8489fae7-e8c9-45a3-8036-cd08b5827337" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

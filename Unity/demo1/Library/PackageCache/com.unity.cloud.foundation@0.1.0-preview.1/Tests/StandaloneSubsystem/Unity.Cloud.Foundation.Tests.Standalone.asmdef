@@ -1,0 +1,16 @@
+{
+    "name": "Unity.Cloud.Foundation.Tests.Standalone",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Cloud.Foundation",
+        "Unity.Subsystem.Registration"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

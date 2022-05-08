@@ -1,0 +1,26 @@
+{
+  "name": "com.unity.cloud.foundation",
+  "displayName": "Cloud Foundation",
+  "version": "0.1.0-preview.1",
+  "unity": "2020.3",
+  "unityRelease": "17f1",
+  "description": "Package that provides the management of Cloud SDK. Manages and offers help with loading, initialization, settings, and build support for Cloud SDK.",
+  "keywords": [
+    "sdk",
+    "management",
+    "build",
+    "plugin"
+  ],
+  "dependencies": {
+    "com.unity.modules.subsystems": "1.0.0",
+    "com.unity.subsystemregistration": "1.0.6"
+  },
+  "upmCi": {
+    "footprint": "ea0ab4e16216fad442650055dbe1536afb16fd4b"
+  },
+  "repository": {
+    "url": "git@github.cds.internal.unity3d.com:unity/com.unity.cloud.foundation.git",
+    "type": "git",
+    "revision": "69e7b36c69309aaddc2f73cba2ebfb7b4c15eece"
+  }
+}

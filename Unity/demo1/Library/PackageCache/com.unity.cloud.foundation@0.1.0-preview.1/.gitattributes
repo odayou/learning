@@ -1,0 +1,19 @@
+* text=auto
+
+*.asmdef text eol=lf
+*.json text eol=lf
+*.meta text eol=lf
+*.c text eol=lf
+*.md text eol=lf
+*.cpp text eol=lf
+*.h text eol=lf
+*.sh text eol=lf
+*.cs text eol=lf
+*.m text eol=lfs
+*.mm text eol=lfs
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.a filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+*.bundle filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text

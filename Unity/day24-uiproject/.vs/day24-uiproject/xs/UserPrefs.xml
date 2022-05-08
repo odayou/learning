@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StarController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LevelsController.cs" Line="55" Column="18" />
+      <File FileName="Assets/Scripts/LevelSingleton.cs" Line="16" Column="11" />
+      <File FileName="Assets/Scripts/LevelHeaderController.cs" Line="16" Column="93" />
+      <File FileName="Assets/Scripts/StarController.cs" Line="17" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3f2de5f2-fac6-4b06-a5c1-04598574b82d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

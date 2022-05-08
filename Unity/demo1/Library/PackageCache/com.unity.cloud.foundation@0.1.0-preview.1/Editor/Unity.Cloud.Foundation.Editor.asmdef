@@ -1,0 +1,16 @@
+{
+    "name": "Unity.Cloud.Foundation.Editor",
+    "references": [
+        "Unity.Cloud.Foundation"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

@@ -1,0 +1,3 @@
+[submodule "Tests/TestTooling"]
+	path = Tests/TestTooling
+	url = git@github.com:unity-cn/cloud.foundation.test-tooling.git

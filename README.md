@@ -1,8 +1,2 @@
-# learning-book
-## 数据结构与算法
-## PHP
-## vuejs
-## nodejs
-## android
-## python
-## java
+个人知识学、用记录，包含学习知识点笔记和练习源码。
+参考资料中电子书默认都放在个人百度网盘
