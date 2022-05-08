@@ -1,0 +1,15 @@
+.idea
+.idea/
+.vs
+.vscode
+.cmake
+*.log
+*.temp
+*.tmp
+*/vendor
+*.apk
+*.zip
+*.jar
+*.war
+*.ear
+.class
