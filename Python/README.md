@@ -5,4 +5,4 @@
 [学习步骤](https://mofanpy.com/learning-steps/)
 
 [Python零基础教学](https://mofanpy.com/tutorials/python-basic/) (特点 在线交互式学习)
-  - [学习进度](https://mofanpy.com/tutorials/python-basic/interactive-python/data#%E5%9C%A8%E5%BE%AA%E7%8E%AF%E4%B8%AD%E8%BF%90%E7%94%A8)
+  - [学习进度](https://mofanpy.com/tutorials/python-basic/interactive-python/regex)
