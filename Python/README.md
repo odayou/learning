@@ -5,4 +5,4 @@
 [学习步骤](https://mofanpy.com/learning-steps/)
 
 [Python零基础教学](https://mofanpy.com/tutorials/python-basic/) (特点 在线交互式学习)
-  - [学习进度](https://mofanpy.com/tutorials/data-manipulation/numpy/operations)
+  - [学习进度](https://mofanpy.com/tutorials/data-manipulation/numpy/data-analysis)
