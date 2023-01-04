@@ -1,4 +1,8 @@
 # 学习资料
+## 概念
+### 人工智能（Artificial Intelligence）
+### 机器学习（Machine Learning）
+### 深度学习（Deep Learning）
 ## 网站
 > [莫烦的网站](https://mofanpy.com/), 此网站高质量，从入门到机器学习都可以在此网站学习，登录账号的qq登录
 
